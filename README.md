@@ -19,7 +19,7 @@ This is a web app created using Node.js and related packages (mongoose, express,
 - [MongoDB](https://docs.mongodb.com/manual/installation/)
 
 ### Steps to Run
-1. Clone/download this repositiory: `git clone https://github.com/pmessan/todolist.git`
+1. Clone/download this repositiory: `git clone https://github.com/pmessan/todolist-app.git`
 2. Install packages dependencies `cd todolist && npm i`
 3. Start the web server with nodemon `nodemon app.js`
 4. Go to [localhost:3000]() on your web browser
